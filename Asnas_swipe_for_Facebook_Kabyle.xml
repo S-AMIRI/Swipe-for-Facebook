@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 <string name="abc_action_bar_home_description">"Uɣal ɣer umager"</string>
-<string name="abc_action_bar_up_description">"Uɣal  d asawen"</string>
+<string name="abc_action_bar_up_description">"Uɣal d asawen"</string>
 <string name="abc_action_menu_overflow_description">"Iɣewwaṛen-nniḍen"</string>
 <string name="abc_action_mode_done">"IH"</string>
 <string name="abc_activity_chooser_view_see_all">"Sken-d akk"</string>
@@ -14,12 +14,12 @@
 <string name="abc_searchview_description_search">"Nadi"</string>
 <string name="abc_searchview_description_submit">"Azen asuter"</string>
 <string name="abc_searchview_description_voice">"Anadi aɣectan"</string>
-<string name="abc_shareactionprovider_share_with"></string>
-<string name="abc_shareactionprovider_share_with_application"></string>
-<string name="abc_toolbar_collapse_description"></string>
+<string name="abc_shareactionprovider_share_with">"Bḍu akked"</string>
+<string name="abc_shareactionprovider_share_with_application">"Bḍu akked %s"</string>
+<string name="abc_toolbar_collapse_description">"Semẓi"</string>
 <string name="action_bug"></string>
 <string name="action_chat"></string>
-<string name="action_close"></string>
+<string name="action_close">"Mdel"</string>
 <string name="action_events"></string>
 <string name="action_feedback"></string>
 <string name="action_friends_online"></string>
